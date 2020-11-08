@@ -5,14 +5,14 @@
      "Access-Control-Allow-Origin": "*"
     },
   
-   "/login":{
+   "/login/":{
      "X-Author": "id110286895",
      "Access-Control-Allow-Origin": "*",
      "Content-Type": "text/plain",
      "charset": "UTF-8 "
     },
  
-    "/sample":{
+    "/sample/":{
      "Access-Control-Allow-Origin": "*",
      "Content-Type": "text/plain",
      "charset": "UTF-8 "
